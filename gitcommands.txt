@@ -1,7 +1,7 @@
  git init - инициализировать папочку гит
  git status - показывает статус репозитория
  git add . - добавить все файлы
- git commit -m "first commit"
+ git commit -m "comment"
  echo "# CursorHW1: make simple commit of .txt file with commands>> README.md
  git remote add origin https://github.com/TexHaPb85/CursorHW1.git
  git push -u origin master
