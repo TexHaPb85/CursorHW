@@ -1,7 +1,7 @@
-C:\task1brenchwork>git clone https://github.com/TexHaPb85/CursorHW.git
-C:\task1brenchwork>cd C:\task1brenchwork\CursorHW
-C:\task1brenchwork\CursorHW>git status
+git clone https://github.com/TexHaPb85/CursorHW.git
+cd C:\task1brenchwork\CursorHW
+git status
 
-C:\task1brenchwork\CursorHW>git branch branch_1
-C:\task1brenchwork\CursorHW>git checkout branch_1
-Switched to branch 'branch_1'
+git branch branch_1
+git checkout branch_1
+//Switched to branch 'branch_1'
