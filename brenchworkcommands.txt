@@ -1,0 +1,3 @@
+C:\task1brenchwork>git clone https://github.com/TexHaPb85/CursorHW.git
+C:\task1brenchwork>cd C:\task1brenchwork\CursorHW
+C:\task1brenchwork\CursorHW>git status
