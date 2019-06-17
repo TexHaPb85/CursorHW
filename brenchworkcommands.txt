@@ -1,0 +1,14 @@
+git clone https://github.com/TexHaPb85/CursorHW.git
+cd C:\task1brenchwork\CursorHW
+git status
+
+git branch branch_1
+git checkout branch_1
+//Switched to branch 'branch_1'
+git checkout master
+//Your branch is ahead of 'origin/master' by 1 commit.
+//(use "git push" to publish your local commits)
+git commit -m "switched to brench master and added some changes"
+
+git log --graph(shows graph of commits) --all --decorate(with colors) --oneline(reduce extra)
+git checkout branch_1
